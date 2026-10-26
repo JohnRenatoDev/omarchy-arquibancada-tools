@@ -1,0 +1,10 @@
+{
+  "date": "2026-10-19",
+  "tool": "image_gen",
+  "source": "sao-paulo.png before kit revision",
+  "output": "sao-paulo.png",
+  "prompt": "Edit this existing São Paulo FC Santo Paulo mascot illustration. Change ONLY the clothing into a faithful sponsor-free São Paulo home football kit: a WHITE short-sleeved football shirt with the club's iconic TWO HORIZONTAL chest bands, RED upper band and BLACK lower band with a narrow white separator, white shorts and white socks with red/black trim. REMOVE the long vertical red stole panels that currently run over the chest; keep a flowing cape behind the body only, preserving the apostle mascot identity. Leave the chest perfectly free of ANY logos, badges, crest, patch outline, sponsor, letters, or numbers: a real exact club crest will be composited separately on the horizontal chest bands in the final artwork. Keep the bearded face, subtle golden halo, body proportions, muscles, stance, one entire boot resting on the foreground soccer ball, the complete body and ball within frame, dramatic low angle, same semi-realistic cartoon painting, all lighting, stadium, flags, smoke, grass, and the dark left space exactly as in this source. Keep the original 1672x941 landscape framing/composition, don't crop, don't zoom, don't move the mascot. This is a precise uniform correction, not a redesign.",
+  "exact_badges": "Applied separately by src/mascote_cartoon.py using src/mascotes-layout.json",
+  "shirt_reference": "https://www.saopaulofc.net/new-balance-e-sao-paulo-futebol-clube-iniciam-contagem-para-o-centenario-com-nova-camisa-de-2026/",
+  "status": "historical: initial São Paulo edit; superseded by uniformes-2026-prompts.json revision 4"
+}

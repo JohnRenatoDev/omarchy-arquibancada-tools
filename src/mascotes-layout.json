@@ -1,0 +1,703 @@
+{
+  "santos": {
+    "application": "native-shirt-surface",
+    "placement": "wearer-left",
+    "kit_model": "Umbro 2026 — uniforme 2 listrado",
+    "badge": "crests/santos.png",
+    "reference": "https://www.santosfc.com.br/santos-fc-e-umbro-apresentam-a-nova-camisa-listrada-para-a-temporada-2026/",
+    "reference_image": "https://media.santosfc.com.br/wp-content/uploads/2026/04/Robinho-Uniforme-2-2026-683x1024.jpg",
+    "notes": "Escudo alvinegro com coroa e duas estrelas. Aplicação revista pela gola, esterno, cava e dobra peitoral; perspectiva específica da pose.",
+    "verified": "2026-10-20",
+    "source_sha256": "41b2d3a7dc311aca75059e72ef7806f2196437429f4655c2e652ec0d545d3df3",
+    "visual_review": true,
+    "badge_geometry": "Native artwork mapped to the measured shirt plane; projective foreshortening, no generated lettering.",
+    "badge_sha256": "4833d510db584cba48a849f6d065cf6aae5663cd6e365ecfb40515830a9af94d",
+    "shirt_surface": {
+      "corners": [
+        [
+          1165,
+          249
+        ],
+        [
+          1204,
+          261
+        ],
+        [
+          1194,
+          310
+        ],
+        [
+          1154,
+          297
+        ]
+      ],
+      "curve": 0.7
+    }
+  },
+  "corinthians": {
+    "application": "native-shirt-surface",
+    "placement": "wearer-left",
+    "kit_model": "Nike I 2026/27",
+    "badge": "crests/corinthians-2026.png",
+    "reference": "https://www.nike.com.br/camisa-corinthians-nike-i-2026-27-jogador-masculina-103985.html",
+    "reference_image": "https://imgnike-a.akamaihd.net/1920x1920/10398551A4.jpg",
+    "notes": "Escudo com âncora e remos, sem estrelas externas. Aplicação revista pela gola, esterno, cava e dobra peitoral; perspectiva específica da pose.",
+    "verified": "2026-10-20",
+    "source_sha256": "e4ca496a88c1b95f0dcb5be8b5241d50362a803c0f7aa75eb68668219f7fcd2e",
+    "visual_review": true,
+    "badge_geometry": "Native artwork mapped to the measured shirt plane; projective foreshortening, no generated lettering.",
+    "badge_sha256": "9333580b7e580db2387b91f5de952b88b9fbd062eea9048675dc67586e93cefb",
+    "shirt_surface": {
+      "corners": [
+        [
+          1128,
+          238
+        ],
+        [
+          1167,
+          244
+        ],
+        [
+          1161,
+          298
+        ],
+        [
+          1123,
+          290
+        ]
+      ],
+      "curve": 0.45
+    }
+  },
+  "palmeiras": {
+    "application": "native-shirt-surface",
+    "placement": "wearer-left",
+    "kit_model": "Puma Home 2026",
+    "badge": "kit-badges/palmeiras-camisa.svg",
+    "reference": "https://www.palmeiras.com.br/noticias/palmeiras-e-puma-apresentam-novos-uniformes-para-temporada-2026/",
+    "reference_image": "https://www.palmeiras.com.br/wp-content/uploads/2026/01/DSC07884.jpg",
+    "notes": "Emblema circular da camisa, sem a estrela externa do arquivo institucional. Aplicação revista pela gola, esterno, cava e dobra peitoral; perspectiva específica da pose.",
+    "verified": "2026-10-20",
+    "source_sha256": "d08dbde49673c1968e10219eed2ea19b020c9f35d27b3929b80e095012f441b9",
+    "visual_review": true,
+    "badge_geometry": "Native artwork mapped to the measured shirt plane; projective foreshortening, no generated lettering.",
+    "badge_sha256": "c7ff098e7da4e9682d539a99b38d1f50e2927b8b790f60584c7b329c9d9c4cb2",
+    "shirt_surface": {
+      "corners": [
+        [
+          1141,
+          245
+        ],
+        [
+          1182,
+          258
+        ],
+        [
+          1172,
+          301
+        ],
+        [
+          1133,
+          286
+        ]
+      ],
+      "curve": 0.7
+    }
+  },
+  "sao-paulo": {
+    "application": "native-shirt-surface",
+    "placement": "central",
+    "kit_model": "New Balance Home 2026",
+    "badge": "kit-badges/sao-paulo-camisa.svg",
+    "reference": "https://www.saopaulofc.net/new-balance-e-sao-paulo-futebol-clube-iniciam-contagem-para-o-centenario-com-nova-camisa-de-2026/",
+    "reference_image": "https://cdn.saopaulofc.net/2026/02/nb-4-683x1024.jpg",
+    "notes": "Área branca central interrompe as faixas como na camisa de referência; escudo SPFC original; uma estrela vermelha acima da linha dourada/vermelha/vermelha/dourada. Símbolo central com proporções nativas. Aplicação revista pela gola, esterno, cava e dobra peitoral; perspectiva específica da pose.",
+    "verified": "2026-10-20",
+    "source_sha256": "37ceac01955becf1b1833cf0acf8dae8fb9616274188768507c498575c933a26",
+    "visual_review": true,
+    "badge_geometry": "Native artwork mapped to the measured shirt plane; projective foreshortening, no generated lettering.",
+    "badge_sha256": "9e1add5676c3db4b5b3f0abce6c1185a04ae778cbd6719784b0f292feb899c53",
+    "shirt_surface": {
+      "corners": [
+        [
+          1069,
+          235
+        ],
+        [
+          1124,
+          247
+        ],
+        [
+          1124,
+          320
+        ],
+        [
+          1069,
+          308
+        ]
+      ],
+      "curve": 0.45
+    }
+  },
+  "athletico-paranaense": {
+    "application": "native-shirt-surface",
+    "placement": "wearer-left",
+    "kit_model": "Umbro Oficial 1 2026",
+    "badge": "kit-badges/athletico-white.svg",
+    "reference": "https://loja.athletico.com.br/010040-camisa-masculina-athletico-jogador-oficial-1-2026/p",
+    "reference_image": "https://athletico.vteximg.com.br/arquivos/ids/177528/Vtex_-01_s.webp?v=639271628591530000",
+    "notes": "Símbolo CAP branco, sem escudo envolvente. Aplicação revista pela gola, esterno, cava e dobra peitoral; perspectiva específica da pose.",
+    "verified": "2026-10-20",
+    "source_sha256": "f875af7dce79d8f7ad917e16358bc7ca6130ea97d941392aa50a31ca50141326",
+    "visual_review": true,
+    "badge_geometry": "Native artwork mapped to the measured shirt plane; projective foreshortening, no generated lettering.",
+    "badge_sha256": "71e43dbfc604d912ce04451adc27731568ef78a67ffe3feaca14ef4331d3ab53",
+    "shirt_surface": {
+      "corners": [
+        [
+          1150,
+          252
+        ],
+        [
+          1190,
+          260
+        ],
+        [
+          1180,
+          306
+        ],
+        [
+          1142,
+          296
+        ]
+      ],
+      "curve": 0.7
+    }
+  },
+  "atletico-mineiro": {
+    "application": "native-shirt-surface",
+    "placement": "wearer-left",
+    "kit_model": "Nike I 2026/27",
+    "badge": "crests/atletico-mineiro.png",
+    "reference": "https://www.nike.com.br/camisa-atletico-mineiro-nike-i-202627-torcedor-pro-masculina-098346.html?cor=IE",
+    "reference_image": "https://imgnike-a.akamaihd.net/768x768/098346IEA2.jpg",
+    "notes": "Escudo CAM e estrela dourada. Aplicação revista pela gola, esterno, cava e dobra peitoral; perspectiva específica da pose.",
+    "verified": "2026-10-20",
+    "source_sha256": "cb4c147707baa2b9a30ea2440ad8fbbfa37c5563356f1c86eb7935844900e6c1",
+    "visual_review": true,
+    "badge_geometry": "Native artwork mapped to the measured shirt plane; projective foreshortening, no generated lettering.",
+    "badge_sha256": "29e55e2557a10f7cd6b5b9ed2a32707a871fbda7fbe4408d27ed7ed673f17f37",
+    "shirt_surface": {
+      "corners": [
+        [
+          1131,
+          316
+        ],
+        [
+          1170,
+          326
+        ],
+        [
+          1163,
+          374
+        ],
+        [
+          1125,
+          363
+        ]
+      ],
+      "curve": 0.7
+    }
+  },
+  "bahia": {
+    "application": "native-shirt-surface",
+    "placement": "wearer-left",
+    "kit_model": "Puma 2026 — tricolor",
+    "badge": "crests/bahia.png",
+    "reference": "https://www.esporteclubebahia.com.br/do-povo-um-clamor/",
+    "reference_image": "https://esporteclubebahia.com.br/wp-content/uploads/2026/04/01-.jpg-scaled.jpeg",
+    "notes": "Escudo circular com duas estrelas douradas. Aplicação revista pela gola, esterno, cava e dobra peitoral; perspectiva específica da pose.",
+    "verified": "2026-10-20",
+    "source_sha256": "4056b0916407403f0a668891e1b00817b60c6fc5bf700e49b7a6ee1c0db7a088",
+    "visual_review": true,
+    "badge_geometry": "Native artwork mapped to the measured shirt plane; projective foreshortening, no generated lettering.",
+    "badge_sha256": "21fd57c4580b5305966584a2ecd196cba36abbaf19c7c440f53030bc94ddeab9",
+    "shirt_surface": {
+      "corners": [
+        [
+          1135,
+          232
+        ],
+        [
+          1174,
+          243
+        ],
+        [
+          1164,
+          290
+        ],
+        [
+          1128,
+          278
+        ]
+      ],
+      "curve": 0.7
+    }
+  },
+  "botafogo": {
+    "application": "native-shirt-surface",
+    "placement": "wearer-left",
+    "kit_model": "Mizuno Home 2026/27",
+    "badge": "crests/botafogo.png",
+    "reference": "https://botafogo.com.br/noticias/eu-sou-do-preto-e-branco",
+    "reference_image": "https://static.botafogo.com.br/upload/noticia/9119797b53f1412cb76b3ca8dcef0d32.png",
+    "notes": "Escudo preto com uma estrela branca. Aplicação revista pela gola, esterno, cava e dobra peitoral; perspectiva específica da pose.",
+    "verified": "2026-10-20",
+    "source_sha256": "798b550acd6b80e3f9e569abb537dae44c813ba4509047b0458693afb48074be",
+    "visual_review": true,
+    "badge_geometry": "Native artwork mapped to the measured shirt plane; projective foreshortening, no generated lettering.",
+    "badge_sha256": "e4e9257c2b559f5e10e507e52221cd2b31e12a07cd46b8ba4b8e696342b78d2c",
+    "shirt_surface": {
+      "corners": [
+        [
+          1152,
+          255
+        ],
+        [
+          1191,
+          269
+        ],
+        [
+          1179,
+          315
+        ],
+        [
+          1142,
+          299
+        ]
+      ],
+      "curve": 0.7
+    }
+  },
+  "chapecoense": {
+    "application": "native-shirt-surface",
+    "placement": "wearer-left",
+    "kit_model": "Kappa OF.1 2026",
+    "badge": "kit-badges/chapecoense-camisa.svg",
+    "reference": "https://chapecoense.com/2025/12/15/chapecoense-e-kappa-lancam-a-camisa-of-1-da-temporada-2026/",
+    "reference_image": "https://chapecoense.com/wp-content/uploads/2025/12/nova-camisa-of1.png",
+    "notes": "Camisa listrada verde/branca; emblema circular ACF com contorno dourado, sem quatro estrelas externas. Aplicação revista pela gola, esterno, cava e dobra peitoral; perspectiva específica da pose.",
+    "verified": "2026-10-20",
+    "source_sha256": "e22f68233c73d0dd5debeb8307ee87e7363e384847f532feac739e9875bc49fe",
+    "visual_review": true,
+    "badge_geometry": "Native artwork mapped to the measured shirt plane; projective foreshortening, no generated lettering.",
+    "badge_sha256": "1c98ec33641a40f8f4d5a443ccc5a7c2b6c360aaa36dff987825fa5aae3d4ea1",
+    "shirt_surface": {
+      "corners": [
+        [
+          1119,
+          342
+        ],
+        [
+          1159,
+          358
+        ],
+        [
+          1145,
+          400
+        ],
+        [
+          1107,
+          383
+        ]
+      ],
+      "curve": 0.7
+    }
+  },
+  "coritiba": {
+    "application": "native-shirt-surface",
+    "placement": "central",
+    "kit_model": "Diadora Oficial Jogo 1 2026",
+    "badge": "kit-badges/coritiba-camisa.svg",
+    "reference": "https://www.diadorabrasil.com.br/camisa-coritiba-diadora-masculina-oficial-jogo-1-2026-branca-11673278/p",
+    "reference_image": "https://diadora.vtexassets.com/arquivos/ids/354241/M001.png",
+    "notes": "Emblema CFC central sobre as faixas verdes e estrela dourada. Aplicação revista pela gola, esterno, cava e dobra peitoral; perspectiva específica da pose.",
+    "verified": "2026-10-20",
+    "source_sha256": "c80301975565d9b7e4ad9a649857cb755bf9e15a7a4c10862557dc910d6152ff",
+    "visual_review": true,
+    "badge_geometry": "Native artwork mapped to the measured shirt plane; projective foreshortening, no generated lettering.",
+    "badge_sha256": "06ecc9896a134489b1e203a902d81e4b83f9123be54b48749fd24984be72bff6",
+    "shirt_surface": {
+      "corners": [
+        [
+          1070,
+          242
+        ],
+        [
+          1117,
+          255
+        ],
+        [
+          1103,
+          302
+        ],
+        [
+          1056,
+          289
+        ]
+      ],
+      "curve": 0.45
+    }
+  },
+  "cruzeiro": {
+    "application": "native-shirt-surface",
+    "placement": "wearer-left",
+    "kit_model": "Adidas I 2026",
+    "badge": "kit-badges/cruzeiro-estrelas.svg",
+    "reference": "https://www.adidas.com.br/camisa-i-cruzeiro-26/KT0124.html",
+    "reference_image": "https://assets.adidas.com/images/w_1200/79f3765ca205496ba064bdacd8a4ea46_9366/Camisa_I_Cruzeiro_26_Azul_KT0124_01_laydown.jpg",
+    "notes": "Cinco estrelas brancas, sem escudo circular. Aplicação revista pela gola, esterno, cava e dobra peitoral; perspectiva específica da pose.",
+    "verified": "2026-10-20",
+    "source_sha256": "d4eceead4cc1ccdba24619c64c27dd4e6475a6fadcfbcc5808347219d4bfd564",
+    "visual_review": true,
+    "badge_geometry": "Native artwork mapped to the measured shirt plane; projective foreshortening, no generated lettering.",
+    "badge_sha256": "cd8fcbe6fd9531882e2f60d070701e34df0dd63912428405570ebff65cdc913c",
+    "shirt_surface": {
+      "corners": [
+        [
+          1125,
+          317
+        ],
+        [
+          1163,
+          330
+        ],
+        [
+          1153,
+          376
+        ],
+        [
+          1115,
+          362
+        ]
+      ],
+      "curve": 0.7
+    }
+  },
+  "flamengo": {
+    "application": "native-shirt-surface",
+    "placement": "wearer-left",
+    "kit_model": "Adidas I 2026",
+    "badge": "kit-badges/flamengo-camisa.svg",
+    "reference": "https://www.adidas.com.br/camisa-i-cr-flamengo-26/JM5651.html",
+    "reference_image": "https://assets.adidas.com/images/w_1200/85c2b96cab384252bd45279820c51ddd_9366/Camisa_I_CR_Flamengo_26_Vermelho_JM5651_01_laydown.jpg",
+    "notes": "CRF branco com estrela dourada. Aplicação revista pela gola, esterno, cava e dobra peitoral; perspectiva específica da pose.",
+    "verified": "2026-10-20",
+    "source_sha256": "ebb82a21c6b3244e0c9d48195c32e1614124c3ce7fe53da6aa38eeac2b0f2423",
+    "visual_review": true,
+    "badge_geometry": "Native artwork mapped to the measured shirt plane; projective foreshortening, no generated lettering.",
+    "badge_sha256": "130ea8b5e758f0d3cadd9a4b4180411f7de5010e82b5f73541351915c16897c9",
+    "shirt_surface": {
+      "corners": [
+        [
+          1145,
+          225
+        ],
+        [
+          1178,
+          234
+        ],
+        [
+          1171,
+          272
+        ],
+        [
+          1138,
+          261
+        ]
+      ],
+      "curve": 0.7
+    }
+  },
+  "fluminense": {
+    "application": "native-shirt-surface",
+    "placement": "wearer-left",
+    "kit_model": "Puma 2026 — tricolor",
+    "badge": "crests/fluminense.png",
+    "reference": "https://www.fluminense.com.br/noticia/fluminense-e-puma-anunciam-parceria-e-apresentam-uniformes-para-2026",
+    "reference_image": "https://s3.amazonaws.com/assets-fluminense/uploads%2F1767272177997-WhatsApp+Image+2026-01-01+at+09.54.18.jpeg",
+    "notes": "Escudo grená e verde com monograma branco. Aplicação revista pela gola, esterno, cava e dobra peitoral; perspectiva específica da pose.",
+    "verified": "2026-10-20",
+    "source_sha256": "813a80936083e49321cb2049d612a26c27bf9fa25ccb31dd03ea8cbbff8bf1b3",
+    "visual_review": true,
+    "badge_geometry": "Native artwork mapped to the measured shirt plane; projective foreshortening, no generated lettering.",
+    "badge_sha256": "ef20f396606f8c0a6a5f30dd4fddc8ed899aa64326e11da216ef9b2674c7bfb3",
+    "shirt_surface": {
+      "corners": [
+        [
+          1137,
+          309
+        ],
+        [
+          1174,
+          320
+        ],
+        [
+          1163,
+          365
+        ],
+        [
+          1128,
+          352
+        ]
+      ],
+      "curve": 0.7
+    }
+  },
+  "gremio": {
+    "application": "native-shirt-surface",
+    "placement": "wearer-left",
+    "kit_model": "New Balance Home 2026",
+    "badge": "crests/gremio.png",
+    "reference": "https://gremio.net/noticias/detalhes/30130/",
+    "reference_image": "https://gremio.blob.core.windows.net/imgs-site/lg-noticias-gra-mio-lana-a-novos-uniformes-para-2026-em-parceria-com-a-new-balance-46824.jpeg",
+    "notes": "Escudo circular e três estrelas bronze, prata e ouro. Aplicação revista pela gola, esterno, cava e dobra peitoral; perspectiva específica da pose.",
+    "verified": "2026-10-20",
+    "source_sha256": "ccb72d478f6c072963887b1ff4fb299ba5a413682dea7f8d5e01630c9ddb9ad1",
+    "visual_review": true,
+    "badge_geometry": "Native artwork mapped to the measured shirt plane; projective foreshortening, no generated lettering.",
+    "badge_sha256": "f8df1d11ce813c3fd28f0be638a564bdd0a6c67a153e3d0a77d8d38e4421ea24",
+    "shirt_surface": {
+      "corners": [
+        [
+          1135,
+          248
+        ],
+        [
+          1174,
+          260
+        ],
+        [
+          1163,
+          306
+        ],
+        [
+          1126,
+          293
+        ]
+      ],
+      "curve": 0.7
+    }
+  },
+  "internacional": {
+    "application": "native-shirt-surface",
+    "placement": "wearer-left",
+    "kit_model": "Adidas Home 2026 — Libertadores 2006",
+    "badge": "kit-badges/internacional-camisa.svg",
+    "reference": "https://sitiooficial.internacional.com.br/noticias/gestao-e-clube/novo-uniforme-para-a-temporada-2026-celebra-primeiro-titulo-da-libertadores",
+    "reference_image": "https://static.internacional.com.br/cms/assets/Pro_Capture_One_0021_1_1_1_0da11b9919.jpg",
+    "notes": "Monograma SCI e círculo brancos, estrelas douradas; sem a legenda periférica do escudo institucional. Aplicação revista pela gola, esterno, cava e dobra peitoral; perspectiva específica da pose.",
+    "verified": "2026-10-20",
+    "source_sha256": "8f3cc427d239ed3df7b1d08ed453b4830d8d68b5d7cb3aecc14af665dfe37fce",
+    "visual_review": true,
+    "badge_geometry": "Native artwork mapped to the measured shirt plane; projective foreshortening, no generated lettering.",
+    "badge_sha256": "c28996a3c3c752e84deb5c0c8e5ceec869ea3459bbebb6dafa7c6fbbfd2d94b6",
+    "shirt_surface": {
+      "corners": [
+        [
+          1133,
+          232
+        ],
+        [
+          1173,
+          242
+        ],
+        [
+          1163,
+          295
+        ],
+        [
+          1124,
+          283
+        ]
+      ],
+      "curve": 0.7
+    },
+    "pose": "One leg planted on the grass; one football held securely in the right arm, leaving the shirt badge visible."
+  },
+  "mirassol": {
+    "application": "native-shirt-surface",
+    "placement": "wearer-left",
+    "kit_model": "Athleta 2026 — amarelo",
+    "badge": "kit-badges/mirassol-camisa.svg",
+    "reference": "https://mirassolfc.com.br/blogs/news/mirassol-lanca-nova-colecao-de-uniformes-que-marca-ano-historico-no-futebol-nacional-e-internacional",
+    "reference_image": "https://mirassolfc.com.br/cdn/shop/articles/thumb_157d2b636c3e6b74b7c881c584dd0efa.jpg?v=1773085901",
+    "notes": "Aplicação verde MFC com três estrelas conforme foto da camisa, sem faixa institucional inferior. Aplicação revista pela gola, esterno, cava e dobra peitoral; perspectiva específica da pose.",
+    "verified": "2026-10-20",
+    "source_sha256": "12502a85aac6db614187c433d37ff7825c70c5bdb50bd2196578c54344a6a9cb",
+    "visual_review": true,
+    "badge_geometry": "Native artwork mapped to the measured shirt plane; projective foreshortening, no generated lettering.",
+    "badge_sha256": "fe1fc97acac237a5a0412087860cdb70f08e46fed94f50226a3809ffbb1f886b",
+    "shirt_surface": {
+      "corners": [
+        [
+          1146,
+          248
+        ],
+        [
+          1183,
+          260
+        ],
+        [
+          1172,
+          303
+        ],
+        [
+          1136,
+          290
+        ]
+      ],
+      "curve": 0.7
+    }
+  },
+  "red-bull-bragantino": {
+    "application": "native-shirt-surface",
+    "placement": "wearer-left",
+    "kit_model": "Puma Home 2026",
+    "badge": "crests/red-bull-bragantino.png",
+    "reference": "https://br.puma.com/pd/camisa-red-bull-bragantino-home-2026/787209.html",
+    "reference_image": "https://images.puma.com/image/upload/f_auto,q_auto,w_2000,b_rgb:FAFAFA/global/787209/01/fnd/BRA/fmt/png",
+    "notes": "Escudo pequeno no peitoral; não confundir com o patrocinador central. Aplicação revista pela gola, esterno, cava e dobra peitoral; perspectiva específica da pose.",
+    "verified": "2026-10-20",
+    "source_sha256": "e24132cffb0afe3e24cd9966e9354fa6d4b459bef85025c3e72baa94d18d3d6b",
+    "visual_review": true,
+    "badge_geometry": "Native artwork mapped to the measured shirt plane; projective foreshortening, no generated lettering.",
+    "badge_sha256": "388c6be03414040caea3a0a2ae86d303cd070e2164ebe3028059e14c776c8caf",
+    "shirt_surface": {
+      "corners": [
+        [
+          1137,
+          244
+        ],
+        [
+          1185,
+          258
+        ],
+        [
+          1175,
+          300
+        ],
+        [
+          1128,
+          285
+        ]
+      ],
+      "curve": 0.7
+    }
+  },
+  "remo": {
+    "application": "native-shirt-surface",
+    "placement": "wearer-left",
+    "kit_model": "Volt Jogo 1 2026",
+    "badge": "crests/remo.png",
+    "reference": "https://clubedoremo.com.br/loja?colecao=volt&ordenar=padrao",
+    "reference_image": "https://cdn.shopify.com/s/files/1/0652/9761/2845/files/masculino1frente.png?v=1774105436",
+    "notes": "Escudo azul-marinho, monograma CR e contorno brancos. Aplicação revista pela gola, esterno, cava e dobra peitoral; perspectiva específica da pose.",
+    "verified": "2026-10-20",
+    "source_sha256": "42f907e7d2bac0698cce22b5f096c715a5422c0fdc7f68ec0ddcaa313e4392ea",
+    "visual_review": true,
+    "badge_geometry": "Native artwork mapped to the measured shirt plane; projective foreshortening, no generated lettering.",
+    "badge_sha256": "8320c75dd2d17c07603e0f417008da5065be24b93e22dddc475dc540cc137e53",
+    "shirt_surface": {
+      "corners": [
+        [
+          1141,
+          239
+        ],
+        [
+          1177,
+          249
+        ],
+        [
+          1167,
+          295
+        ],
+        [
+          1133,
+          284
+        ]
+      ],
+      "curve": 0.7
+    }
+  },
+  "vasco": {
+    "application": "native-shirt-surface",
+    "placement": "wearer-left",
+    "kit_model": "Nike I 2026/27",
+    "badge": "kit-badges/vasco-cruz.svg",
+    "reference": "https://www.nike.com.br/camisa-vasco-nike-i-2026-27-jogador-masculina-098307.html?cor=ID",
+    "reference_image": "https://imgnike-a.akamaihd.net/768x768/098307IDA3.jpg",
+    "notes": "Cruz vermelha dentro da faixa diagonal branca, com margem de tecido. Aplicação revista pela gola, esterno, cava e dobra peitoral; perspectiva específica da pose.",
+    "verified": "2026-10-20",
+    "source_sha256": "dceca73aa31bf745a98c43c5c2e518406d76e3958551f1dd724c4e6f58596cd5",
+    "visual_review": true,
+    "badge_geometry": "Native artwork mapped to the measured shirt plane; projective foreshortening, no generated lettering.",
+    "badge_sha256": "be272fc174d5685bda4438831fe3c0bbd1657ef8cc4acc595f6711ee338ad8f2",
+    "shirt_surface": {
+      "corners": [
+        [
+          1116,
+          231
+        ],
+        [
+          1152,
+          241
+        ],
+        [
+          1143,
+          280
+        ],
+        [
+          1108,
+          269
+        ]
+      ],
+      "curve": 0.7
+    }
+  },
+  "vitoria": {
+    "application": "native-shirt-surface",
+    "placement": "wearer-left",
+    "kit_model": "Volt Jogo 1 2026 — peça de 02/05/2026",
+    "badge": "kit-badges/vitoria-camisa.svg",
+    "reference": "https://mws.com/us/product/carlos-rene-de-sousa-ferreira-j-XbSu8toEOBXlf7E_UQ0Q",
+    "reference_image": "https://mwsprod.imgix.net/imgix/products/3a20fcb3-c937-3423-0836-d77e7149f7f6/media-content/91-front-67d73f5a-d17e-470f-9f54-ea400694c6cd.png?auto=format&fit=fill&h=960&w=960",
+    "notes": "Camisa rubro-negra de faixas verticais, escudo ECV e estrela dourada. Referência: peça autenticada do jogo; produto da loja oficial indisponível. Aplicação revista pela gola, esterno, cava e dobra peitoral; perspectiva específica da pose.",
+    "verified": "2026-10-20",
+    "source_sha256": "b5548deddc4208fde3963a49413626fcea4b88f6e4b1ddcd2afc3e8ff3850974",
+    "visual_review": true,
+    "badge_geometry": "Native artwork mapped to the measured shirt plane; projective foreshortening, no generated lettering.",
+    "badge_sha256": "450dddd184aa0b89376ceef8a239c651c47846cf965d23ff5936677b9c31b45a",
+    "shirt_surface": {
+      "corners": [
+        [
+          1141,
+          250
+        ],
+        [
+          1178,
+          260
+        ],
+        [
+          1168,
+          307
+        ],
+        [
+          1132,
+          296
+        ]
+      ],
+      "curve": 0.7
+    }
+  }
+}

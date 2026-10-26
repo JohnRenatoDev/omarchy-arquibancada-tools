@@ -1,0 +1,150 @@
+{
+  "santos": {
+    "label": "VILA BELMIRO",
+    "verified": "2026-10-19",
+    "sources": [
+      "https://www.santosfc.com.br/memoria-praca-de-esportes-do-santos-fc-ganhava-o-nome-de-estadio-urbano-caldeira/"
+    ],
+    "note": "Vila Belmiro é o nome consagrado; denominação oficial Estádio Urbano Caldeira."
+  },
+  "corinthians": {
+    "label": "NEO QUÍMICA ARENA",
+    "verified": "2026-10-19",
+    "sources": [
+      "https://www.neoquimicaarena.com.br/index.php"
+    ]
+  },
+  "palmeiras": {
+    "label": "NUBANK PARQUE",
+    "verified": "2026-10-19",
+    "sources": [
+      "https://www.palmeiras.com.br/estadios/allianz-parque/",
+      "https://palmeiras.com.br/noticias/ingressos-para-jogo-contra-fluminense-no-nubank-parque-pela-semifinal-da-libertadores/"
+    ]
+  },
+  "sao-paulo": {
+    "label": "MORUMBIS",
+    "verified": "2026-10-19",
+    "sources": [
+      "https://www.saopaulofc.net/calendario-de-jogos/"
+    ]
+  },
+  "athletico-paranaense": {
+    "label": "ARENA DA BAIXADA",
+    "verified": "2026-10-19",
+    "sources": [
+      "https://loja.athletico.com.br/institucional/nossas-lojas",
+      "https://atletico.com.br/ingressos-para-a-torcida-do-galo-no-jogo-contra-o-athletico-pr/"
+    ]
+  },
+  "atletico-mineiro": {
+    "label": "ARENA MRV",
+    "verified": "2026-10-19",
+    "sources": [
+      "https://atletico.com.br/credenciamento-de-imprensa-atletico-x-santos/"
+    ]
+  },
+  "bahia": {
+    "label": "CASA DE APOSTAS ARENA FONTE NOVA",
+    "verified": "2026-10-19",
+    "sources": [
+      "https://www.esporteclubebahia.com.br/sponsor/casa-de-apostas-arena-fonte-nova/"
+    ]
+  },
+  "botafogo": {
+    "label": "NILTON SANTOS",
+    "verified": "2026-10-19",
+    "sources": [
+      "https://www.botafogo.com.br/noticias/linha-do-tempo"
+    ]
+  },
+  "chapecoense": {
+    "label": "ARENA CONDÁ",
+    "verified": "2026-10-19",
+    "sources": [
+      "https://chapecoense.com/arena-conda/"
+    ]
+  },
+  "coritiba": {
+    "label": "COUTO PEREIRA",
+    "verified": "2026-10-19",
+    "sources": [
+      "https://www.cbf.com.br/futebol-brasileiro/jogos/campeonato-brasileiro/serie-a/2026/coritiba-saf-x-cruzeiro/832097"
+    ]
+  },
+  "cruzeiro": {
+    "label": "MINEIRÃO",
+    "verified": "2026-10-19",
+    "sources": [
+      "https://socio.cruzeiro.com.br/jogos/150",
+      "https://mineirao.com.br/noticias"
+    ]
+  },
+  "flamengo": {
+    "label": "MARACANÃ",
+    "verified": "2026-10-19",
+    "sources": [
+      "https://www.flamengo.com.br/noticias/notas-oficiais/nota-oficial---maracana"
+    ]
+  },
+  "fluminense": {
+    "label": "MARACANÃ",
+    "verified": "2026-10-19",
+    "sources": [
+      "https://www.fluminense.com.br/noticia/brasileirao-2026-informacoes-de-ingressos-para-fluminense-x-red-bull-bragantino"
+    ]
+  },
+  "gremio": {
+    "label": "ARENA DO GRÊMIO",
+    "verified": "2026-10-19",
+    "sources": [
+      "https://socio.gremio.net/site/ingressos-publico"
+    ]
+  },
+  "internacional": {
+    "label": "BEIRA-RIO",
+    "verified": "2026-10-19",
+    "sources": [
+      "https://old.internacional.com.br/jogos/masculino/brasileirao-2026/24-10-2026-brasileirao-2026-internacional-x-botafogo"
+    ]
+  },
+  "mirassol": {
+    "label": "JOSÉ MARIA DE CAMPOS MAIA",
+    "verified": "2026-10-19",
+    "sources": [
+      "https://mirassolfc.com.br/blogs/news/em-noite-historica-no-maiao-mirassol-vence-o-palmeiras-e-comemora-100-anos"
+    ]
+  },
+  "red-bull-bragantino": {
+    "label": "CÍCERO DE SOUZA MARQUES",
+    "verified": "2026-10-19",
+    "sources": [
+      "https://www.redbullbragantino.com/br-pt/blog/como-chegar-ao-estadio-red-bull-bragantino"
+    ],
+    "note": "Mando temporário no Cícero de Souza Marques durante as obras da Arena Red Bull – Nabi Abi Chedid."
+  },
+  "remo": {
+    "label": "MANGUEIRÃO",
+    "verified": "2026-10-19",
+    "sources": [
+      "https://clubedoremo.com.br/noticias/clube-do-remo-finaliza-preparacao-para-o-jogo-contra-rb-bragantino",
+      "https://clubedoremo.com.br/patrimonio"
+    ],
+    "note": "Mangueirão é o mando principal na Série A de 2026. O estádio próprio é o Evandro Almeida, Banpará Baenão; não confundir propriedade e mando."
+  },
+  "vasco": {
+    "label": "SÃO JANUÁRIO",
+    "verified": "2026-10-19",
+    "sources": [
+      "https://www.cbf.com.br/futebol-brasileiro/jogos/campeonato-brasileiro/serie-a/2026/vasco-da-gama-saf-x-santos-fc/832111"
+    ]
+  },
+  "vitoria": {
+    "label": "BARRADÃO",
+    "verified": "2026-10-19",
+    "sources": [
+      "https://ecvitoria.com.br/public/assets/pdf/Documentos_Vitoria/CONSELHO%20DELIBERATIVO/Edital%20de%20Convoca%C3%A7%C3%A3o%20de%20Reuni%C3%A3o%20Extraordin%C3%A1ria%20%2022-01-26.pdf"
+    ],
+    "note": "Barradão é o nome consagrado do Estádio Manoel Barradas."
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "verified": "2026-10-20",
+  "flamengo-crf.svg": {
+    "source": "https://commons.wikimedia.org/wiki/File:Clube_de_Regatas_do_Flamengo_logo.svg",
+    "author": "Clube de Regatas do Flamengo",
+    "method": "Exact original white monogram path from the real club crest; no redraw, no generated lettering."
+  },
+  "cruzeiro-estrelas.svg": {
+    "source": "https://commons.wikimedia.org/wiki/File:Cruzeiro_Esporte_Clube_(logo).svg",
+    "method": "Five original white star paths, preserving the constellation geometry; no institutional circle or crown on the shirt."
+  },
+  "vasco-cruz.svg": {
+    "source": "https://a.espncdn.com/i/teamlogos/soccer/500/3454.png",
+    "method": "SVG viewport and red-channel mask isolate the original red cross from the project's real club crest; no boat or full shield on the shirt.",
+    "shirt_reference": "https://www.nike.com.br/camisa-vasco-nike-i-2026-27-jogador-masculina-098307.html?cor=ID"
+  },
+  "athletico-white.svg": {
+    "source": "https://a.espncdn.com/i/teamlogos/soccer/500/3458.png",
+    "method": "Original club mark silhouette in white, preserving its geometry for contrast on the red/black shirt."
+  },
+  "palmeiras-camisa.svg": {
+    "source_asset": "crests/palmeiras.svg",
+    "method": "Original SVG paths with external red star omitted; square circle viewport. No lettering redrawn.",
+    "shirt_reference": "https://www.palmeiras.com.br/noticias/palmeiras-e-puma-apresentam-novos-uniformes-para-temporada-2026/",
+    "reference_image": "https://www.palmeiras.com.br/wp-content/uploads/2026/01/DSC07884.jpg"
+  },
+  "sao-paulo-camisa.svg": {
+    "source_asset": "crests/sao-paulo.svg",
+    "method": "Original SPFC SVG with five regular native stars placed as on the current shirt: one red above a gold/red/red/gold row. No lettering redrawn.",
+    "shirt_reference": "https://www.saopaulofc.net/new-balance-e-sao-paulo-futebol-clube-iniciam-contagem-para-o-centenario-com-nova-camisa-de-2026/",
+    "reference_image": "https://cdn.saopaulofc.net/2026/02/nb-4-683x1024.jpg"
+  },
+  "coritiba-camisa.svg": {
+    "source_asset": "crests/coritiba.png",
+    "method": "Original CFC PNG and one native gold star from the current kit reference.",
+    "shirt_reference": "https://www.diadorabrasil.com.br/camisa-coritiba-diadora-masculina-oficial-jogo-1-2026-branca-11673278/p",
+    "reference_image": "https://diadora.vtexassets.com/arquivos/ids/354241/M001.png"
+  },
+  "flamengo-camisa.svg": {
+    "source_asset": "kit-badges/flamengo-crf.svg",
+    "method": "Original CRF SVG path plus one native gold star from the current kit reference.",
+    "shirt_reference": "https://www.adidas.com.br/camisa-i-cr-flamengo-26/JM5651.html",
+    "reference_image": "https://assets.adidas.com/images/w_1200/85c2b96cab384252bd45279820c51ddd_9366/Camisa_I_CR_Flamengo_26_Vermelho_JM5651_01_laydown.jpg"
+  },
+  "internacional-camisa.svg": {
+    "source_asset": "crests/internacional.png",
+    "method": "White SCI and inner circles isolated with a channel mask from the existing native institutional PNG; five native gold stars arranged against the 2026 shirt photograph. Outer institutional text omitted.",
+    "shirt_reference": "https://sitiooficial.internacional.com.br/noticias/gestao-e-clube/novo-uniforme-para-a-temporada-2026-celebra-primeiro-titulo-da-libertadores",
+    "reference_image": "https://static.internacional.com.br/cms/assets/Pro_Capture_One_0021_1_1_1_0da11b9919.jpg"
+  },
+  "chapecoense-camisa.svg": {
+    "source_asset": "crests/chapecoense.png",
+    "method": "Original ACF circular artwork clipped to omit four institutional stars and external ribbon ends; gold circular edge follows the 2026 shirt.",
+    "shirt_reference": "https://chapecoense.com/2025/12/15/chapecoense-e-kappa-lancam-a-camisa-of-1-da-temporada-2026/",
+    "reference_image": "https://chapecoense.com/wp-content/uploads/2025/12/nova-camisa-of1.png"
+  },
+  "mirassol-camisa.svg": {
+    "source_asset": "crests/mirassol.png",
+    "method": "Original MFC letterforms isolated by channel mask and circular clip, omitting the institutional ribbon; native green circle and three stars follow the kit photograph.",
+    "shirt_reference": "https://mirassolfc.com.br/blogs/news/mirassol-lanca-nova-colecao-de-uniformes-que-marca-ano-historico-no-futebol-nacional-e-internacional",
+    "reference_image": "https://mirassolfc.com.br/cdn/shop/articles/thumb_157d2b636c3e6b74b7c881c584dd0efa.jpg?v=1773085901"
+  },
+  "vitoria-camisa.svg": {
+    "source_asset": "crests/vitoria.png",
+    "method": "Original ECV PNG and one native gold star from the current kit reference.",
+    "shirt_reference": "https://mws.com/us/product/carlos-rene-de-sousa-ferreira-j-XbSu8toEOBXlf7E_UQ0Q",
+    "reference_image": "https://mwsprod.imgix.net/imgix/products/3a20fcb3-c937-3423-0836-d77e7149f7f6/media-content/91-front-67d73f5a-d17e-470f-9f54-ea400694c6cd.png?auto=format&fit=fill&h=960&w=960"
+  }
+}

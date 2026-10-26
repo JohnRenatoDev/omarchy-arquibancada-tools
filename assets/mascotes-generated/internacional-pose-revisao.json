@@ -1,0 +1,18 @@
+{
+  "date": "2026-10-20",
+  "tool": "built-in image_gen",
+  "slug": "internacional",
+  "approved": true,
+  "edit_target": "assets/mascotes-generated/internacional.png",
+  "edit_target_commit": "0a1fcdfa0302df4f612a2711c17db0e55ab4334d",
+  "edit_target_sha256": "9fd52b0874742c87eb3d714d10fa63e688c562bfb7e1aa4b7f4979be0aa8adc6",
+  "output": "assets/mascotes-generated/internacional.png",
+  "output_sha256": "8f3cc427d239ed3df7b1d08ed453b4830d8d68b5d7cb3aecc14af665dfe37fce",
+  "prompt": "Use case: identity-preserve / precise-object-edit.\nAsset: a non-destructive alternate preview of the Internacional Saci football mascot poster.\nInput image 1 is the existing mascot illustration and the EDIT TARGET. Keep its landscape 16:9 framing, character identity, red cap, skin tone, hair, face, athletic physique, exact red-and-white football shirt design, shorts, sock and boot, stadium, red-and-white flags, smoke, cinematic rim light, painted detail, low camera angle and dark empty left third.\nPRIMARY CHANGE: replace the physically precarious foot-on-ball pose with a natural, dignified standing pose HOLDING THE BALL. Saci has exactly ONE leg and ONE boot, a characteristic of this Brazilian folklore character. That single leg should extend naturally down from the shorts with the boot planted firmly on the grass, and his torso and pelvis balanced above the planted foot. Show him whole from cap to sole, with generous margins. No second leg or second shoe, no visible injury, no exposed stump, no prosthesis and no floating. No injury narrative.\nHe cradles one soccer ball securely using his RIGHT hand and bent right forearm, at the right waist/hip (on the VIEWER'S LEFT of his torso), with convincing weight, correct finger anatomy and firm contact. The ball stays away from the chest. His other arm rests naturally by his side. Remove the original football from the ground entirely; there is exactly one ball, held in his arm.\nKeep the torso, shoulders, collar, chest position and chest perspective as close to the original as possible so the real club badge can be composed afterward. Keep the original confident friendly heroic expression without exaggerated or grotesque facial changes. His single leg is a normal part of the folklore character, treated respectfully and confidently.\nSHIRT: retain the original red jersey with tonal vertical stripes, white collar, white sleeve cuffs and three white stripes along the shoulders. Chest must remain uninterrupted red fabric, no generated crest, no monogram, no sponsor, no brand wordmark, no number, no text, no invented badge; real badge will be applied separately. No text anywhere in the image.\nPreserve visual quality and the existing background composition. The requested change is the pose and relocation of the ball, not a new character or a restyling. Keep the complete subject and held ball inside the original wide frame without stretching or cropping.",
+  "dimensions": [
+    1672,
+    941
+  ],
+  "pose": "One leg planted on the grass; one football held securely in the right arm, leaving the shirt badge visible.",
+  "badge_application": "Original club artwork composed separately using the existing reviewed shirt surface in src/mascotes-layout.json."
+}

@@ -1,0 +1,15 @@
+# Generated intermediates and local review material
+/build/
+/theme/
+# Optional research downloads are not part of the distributed theme pack.
+/assets/mascots/
+__pycache__/
+*.py[cod]
+/qc-*.jpg
+*.log
+*.tmp
+*.bak*
+.DS_Store
+.env
+.env.*
+!.env.example
