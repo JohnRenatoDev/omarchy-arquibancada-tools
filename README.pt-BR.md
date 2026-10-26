@@ -64,6 +64,9 @@ três wallpapers 4K por clube, o espelho do Santos na raiz e os hashes das artes
 dos símbolos das camisas revistos. Os testes do instalador usam diretórios
 temporários de configuração e cache, sem alterar seu desktop.
 
+Quando só o repositório do tema mudar, você pode executar o workflow "Validate
+tools and theme distribution" manualmente na aba Actions deste repositório.
+
 Veja as [notas de desenvolvimento](docs/development.pt-BR.md), o
 [brief das artes](docs/mascotes-brief.md) e as
 [referências das camisas](https://github.com/JohnRenatoDev/omarchy-arquibancada-theme/blob/main/docs/uniformes-2026.md).

@@ -65,6 +65,9 @@ wallpapers per club, the Santos root mirror and the hashes of the reviewed
 illustrations and shirt emblems. The installer tests use temporary configuration
 and cache directories; they do not change your desktop.
 
+When only the theme repository changes, you can run the "Validate tools and theme
+distribution" workflow manually from this repository's Actions tab.
+
 See the [build notes](docs/development.md), [art brief](docs/mascotes-brief.md) and
 [shirt references](https://github.com/JohnRenatoDev/omarchy-arquibancada-theme/blob/main/docs/uniformes-2026.md).
 
